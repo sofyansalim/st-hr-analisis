@@ -5,3 +5,4 @@ scikit-learn
 xlsxwriter
 imbalanced-learn
 category-encoders
+lightgbm
