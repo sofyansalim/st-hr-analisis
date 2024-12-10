@@ -3,5 +3,5 @@ pandas
 numpy
 scikit-learn
 xlsxwriter
-setuptools
 imbalanced-learn
+category-encoders
